@@ -16,7 +16,7 @@ Output: 3 measures per selected measure AND column in dimension table
 */
 
 // User defined strings/variables
-string dimTblNm = "dim Table";
+string dimTblNm = "Order Status";
 string calcTblNm = "Calculations";
 string EightyBinColor = "#123456";  // hex color string for the 80% grouping (majority of data points)
 string TwentyBinColor = "#ececec";  // hex color string for the 20% grouping (minority of data points)
